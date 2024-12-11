@@ -1,10 +1,20 @@
 .outfit-importedText {
   font-family: "Outfit", sans-serif;
 }
+
 p{
   font-size: 15px;
+  color: #68778D;
 }
 .attribution{
     text-align: center; 
     font-family: "Outfit", sans-serif;;
+}
+
+.custom-text-large{
+  font-size: 22px;
+  color: #1F314F; 
+}
+.custom-slate-300{
+  background-color: #D5E1EF; 
 }
